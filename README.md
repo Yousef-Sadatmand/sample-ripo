@@ -1,2 +1,3 @@
-# sample-ripo
-Sily example of a personal repo
+# Example of a ripo
+
+This is just for training reasons
